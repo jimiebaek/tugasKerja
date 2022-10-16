@@ -27,7 +27,8 @@
             <a class="nav-link active" aria-current="page" href="#">Home</a>
             <a class="nav-link" href="#">PA CSO</a>
             <a class="nav-link" href="#">Jadwal Pembinaan</a>
-            <a class="nav-link" href="#">Login</a>
+            <a class="nav-link" href="login.php">Login</a>
+            <a class="nav-link" href="logout.php">Logout</a>
           </div>
         </div>
       </div>
