@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
